@@ -1,1 +1,1 @@
-# kuinoma
+# Kuinoma.fi GIT
